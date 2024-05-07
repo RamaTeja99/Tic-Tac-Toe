@@ -2,7 +2,6 @@ body{
   background-color: #F1F0EA;
 }
 .conatainer{
-  background-color: #28AFB0;
   text-align: center;
   height:30em;
   width: 30em;
@@ -23,15 +22,24 @@ body{
   width: 8em;
   border-radius: 1.2em;
   background-color: darkgoldenrod;
+  color:black;
 }
-.rst-btn{
+.new-btn{
   margin-top: 2em;
   height: 3em;
   width:6em;
   border-radius: 1em;
   color:black;
   background-color: red;
+  margin-bottom: 2em;
 }
 .hide{
   display:none;
+}
+.winning-box{
+  background-color: green;
+}
+.info{
+  font-size: 2em;
+  line-height: 2em;
 }
